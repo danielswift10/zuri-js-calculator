@@ -49,4 +49,3 @@ function calculate(x, y, operator) {
 
 //calls function calculate(x, y, operator)
 calculate(x, y, operator);
-
